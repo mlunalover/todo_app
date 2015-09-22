@@ -1,0 +1,38 @@
+/*html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.clearfix:after {
+	display: table;
+	content: " ";
+	clear: both;
+}*/
+
+.title  {
+  text-align: center;
+}
+
+.application  {
+  /*background-color: RGBA(239, 131, 23, .5);*/
+  border: 1px solid black;
+  width: 100%;
+  height: 800px;
+}
+
+.items  {
+  padding-top: 20px;
+}
+
+.trash  {
+  padding: 15px;
+}
+
+/*.todo_list  {
+  flex-grow: 1;
+}*/
+/*.checkbox {
+  display: inline-block;
+}*/
