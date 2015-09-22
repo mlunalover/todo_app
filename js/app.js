@@ -24,6 +24,9 @@ $(".items").on("click",".done_todo", function(e) {
     e.preventDefault();
     $(this).parent('div').wrap("<strike>");
   });
+
+
+
 // $('.done').change(function() {
 //         if($(this).is(":checked")) {
 //             $(this).parent('div').addClass("check");
